@@ -9,5 +9,8 @@
   <h1>Hello World</h1>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea illo ad quo aspernatur accusantium reiciendis, cupiditate, eum rerum eaque earum cumque. Dolorum possimus eaque blanditiis dolores sint fuga saepe animi.</p>
   <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores modi quidem doloremque sit perspiciatis sequi totam assumenda facilis cupiditate cum ipsam sed, aperiam vitae quos beatae ad qui dolores animi?</p>
+  <ul>
+    <li>Ini list</li>
+  </ul>
 </body>
 </html>
